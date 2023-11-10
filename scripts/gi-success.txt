@@ -1,0 +1,4 @@
+pip3 install PyGObject
+sudo apt install libgirepository1.0-dev
+sudo apt install libcairo2-dev
+sudo apt install python3-gi
